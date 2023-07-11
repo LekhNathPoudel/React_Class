@@ -1,0 +1,14 @@
+:root{
+   
+    --size:30px;
+    
+}
+.lekh{
+    --size:20px;
+    --black:#253408; 
+    --white: #bfc124; 
+    background-color: var(--black);
+    font-size: var(--size);
+    color:var(--white);
+    
+}
